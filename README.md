@@ -1,4 +1,4 @@
-Repositório criado para armazenamento do projeto desenvolvido nos cursos HTML5 E CSS3: 
+Repositório criado para armazenamento do projeto desenvolvido nos cursos HTML5 E CSS3 da Alura: 
 
 Parte 1: CRIE UMA PAGINA WEB.
 
